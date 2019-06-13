@@ -1,0 +1,2 @@
+Options -Indexes
+ErrorDocument 404 https://sfesearch.com/404.html

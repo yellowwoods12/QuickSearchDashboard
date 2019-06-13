@@ -1,0 +1,9 @@
+/* your styles go here */
+.col-lg-6{
+	flex: 0 0 100%;
+max-width: 100%;
+width: 100%;
+}
+.content-inner{
+	width:100%;
+}
